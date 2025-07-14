@@ -49,7 +49,7 @@ This Power BI dashboard presents a comprehensive view of an e-commerce company's
 
 ## 📷 Dashboard Snapshot
 
-> ![Dashboard](assets/dashboard-screenshot.jpg)
+> ![Dashboard](https://github.com/Zain-rai/Ecommerce-Sales-Dashboard/blob/main/SalesScreenshotDashboard.png)
 > https://github.com/Zain-rai/Ecommerce-Sales-Dashboard/blob/main/SalesScreenshotDashboard.png
 
 ---
